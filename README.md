@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Abhiram Kasyap 👋
+# Hey there, I'm Abhiram Kasyap
 
 ### B.Tech Computer Science Engineering Student @ MIT Manipal
 
@@ -16,15 +16,15 @@ Building full-stack applications, interactive web experiences, and practical sof
 
 ---
 
-## 💫 About Me
+## About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering** at **Manipal Institute of Technology, Manipal**
-- 💻 Interested in **full-stack development, frontend engineering, backend systems, and applied AI/ML**
-- 🚀 I enjoy turning ideas into working products through hackathons, experiments, and personal projects
-- 🌱 Currently strengthening my skills across the JavaScript ecosystem, Python, databases, and deployment
-- 🤝 Open to collaborating on meaningful software, student projects, and open-source ideas
+- Pursuing **B.Tech in Computer Science Engineering** at **Manipal Institute of Technology, Manipal**
+- Interested in **full-stack development, frontend engineering, backend systems, and applied AI/ML**
+- I enjoy turning ideas into working products through hackathons, experiments, and personal projects
+- Currently strengthening my skills across the JavaScript ecosystem, Python, databases, and deployment
+- Open to collaborating on meaningful software, student projects, and open-source ideas
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -48,7 +48,7 @@ Building full-stack applications, interactive web experiences, and practical sof
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -58,22 +58,7 @@ Building full-stack applications, interactive web experiences, and practical sof
 | [React Projects](https://github.com/Pekkathecoder1/react) | Collection of React-based frontend experiments and projects | React, JavaScript, HTML, CSS |
 | [Backend Stuff](https://github.com/Pekkathecoder1/backend_stuff) | Backend learning projects and server-side experiments | JavaScript, EJS |
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pekkathecoder1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pekkathecoder1&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pekkathecoder1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pekkathecoder1&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
-</div>
-
-## 📈 Codebase Snapshot
+## Codebase Snapshot
 
 Based on the current public projects in my repositories, my work includes:
 
@@ -83,7 +68,7 @@ Based on the current public projects in my repositories, my work includes:
 - **EJS:** server-rendered web applications and backend learning projects
 - **React:** component-based frontend development and interactive experiences
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
