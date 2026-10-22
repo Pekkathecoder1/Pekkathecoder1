@@ -52,9 +52,8 @@ Building full-stack applications, interactive web experiences, and practical sof
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Exovision](https://github.com/Pekkathecoder1/space_got_latent) | Full-stack transit intelligence dashboard for classifying exoplanet transit candidates | JavaScript, Python, React, Node.js, CSS |
+| [Exovision](https://github.com/Pekkathecoder1/space_got_latent) | Hackathon project: full-stack transit intelligence dashboard for classifying exoplanet transit candidates | JavaScript, Python, React, Node.js, CSS |
 | [Yelpcamp](https://github.com/Pekkathecoder1/Yelpcamp) | Full-stack campground application and backend learning project | JavaScript, EJS, CSS |
-| [Minesweeper](https://github.com/Pekkathecoder1/minesweeper) | Browser-based Minesweeper game | JavaScript, HTML, CSS |
 | [React Projects](https://github.com/Pekkathecoder1/react) | Collection of React-based frontend experiments and projects | React, JavaScript, HTML, CSS |
 | [Backend Stuff](https://github.com/Pekkathecoder1/backend_stuff) | Backend learning projects and server-side experiments | JavaScript, EJS |
 
