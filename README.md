@@ -56,6 +56,7 @@ Building full-stack applications, interactive web experiences, and practical sof
 | [Yelpcamp](https://github.com/Pekkathecoder1/Yelpcamp) | Full-stack campground application and backend learning project | JavaScript, EJS, CSS |
 | [React Projects](https://github.com/Pekkathecoder1/react) | Collection of React-based frontend experiments and projects | React, JavaScript, HTML, CSS |
 | [Backend Stuff](https://github.com/Pekkathecoder1/backend_stuff) | Backend learning projects and server-side experiments | JavaScript, EJS |
+| [chat-room](https://github.com/Pekkathecoder1/chat-room) | Real-time chat room project built with Node.js and WebSockets across frontend and backend; MongoDB-based message persistence is planned and will be completed as the project progresses | JavaScript, Node.js, WebSockets, MongoDB |
 
 ## Codebase Snapshot
 
@@ -66,6 +67,7 @@ Based on the current public projects in my repositories, my work includes:
 - **CSS & HTML:** responsive interfaces, games, dashboards, and UI experiments
 - **EJS:** server-rendered web applications and backend learning projects
 - **React:** component-based frontend development and interactive experiences
+- **WebSockets & MongoDB (in progress):** realtime chat architecture with planned database-backed message persistence
 
 ## Let's Connect
 
